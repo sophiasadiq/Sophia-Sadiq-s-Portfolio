@@ -1,4 +1,4 @@
-### Education
+#Education
 Biological Engineering, BS
 
 ### Work Experience 
