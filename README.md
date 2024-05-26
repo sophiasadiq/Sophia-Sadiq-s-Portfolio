@@ -1,7 +1,7 @@
 # Sophia Sadiq
 
 ### Education
-Biological Engineering, BS
+Biological Engineering Student
 
 ### Work Experience 
 Clinical Research @Globyz Biopharma Services
