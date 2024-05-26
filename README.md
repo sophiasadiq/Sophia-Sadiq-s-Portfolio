@@ -3,7 +3,7 @@
 ### Education
 Biological Engineering Student
 
-#### Work Experience 
+### Work Experience 
 Clinical Research @Globyz Biopharma Services
 - Collected, recorded, and maintained accurate clinical data from trial participants. 
 - Assisted in drafting, reviewing, and updating Standard Operating Procedures (SOPs) and Good Manufacturing Practice (GMP) 
