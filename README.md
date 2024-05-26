@@ -1,5 +1,3 @@
-# Sophia Sadiq
-
 ### Education
 Biological Engineering Student
 
