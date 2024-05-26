@@ -1,10 +1,5 @@
 
-
-
-
-
-
-### Education
+### \nEducation
 Biological Engineering Student
 
 ### Work Experience 
