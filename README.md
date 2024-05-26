@@ -1,4 +1,6 @@
-# Education
+# Sophia Sadiq
+
+### Education
 Biological Engineering, BS
 
 ### Work Experience 
