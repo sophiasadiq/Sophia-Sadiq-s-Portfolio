@@ -12,5 +12,4 @@ documents to ensure regulatory compliance and operational efficiency.
 
 ![Design & Development](https://www.pharmasalmanac.com/hs-fs/hubfs/Road%20To%20Ireland/Sponsors/Globyz_Header@2x.jpg?width=1974&name=Globyz_Header@2x.jpg =250x250) 
 
-
 ### Projects
