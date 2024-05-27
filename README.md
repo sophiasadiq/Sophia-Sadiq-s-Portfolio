@@ -10,6 +10,6 @@ documents to ensure regulatory compliance and operational efficiency.
 - Ensured data integrity and adherence to study protocols and regulatory requirements. 
 - Developed key quality KPI reports by analyzing data from various platforms like GTW, Power BI, SAP, and RFT metrics.
 
-<img src="https://www.pharmasalmanac.com/hs-fs/hubfs/Road%20To%20Ireland/Sponsors/Globyz_Header@2x.jpg?width=1974&name=Globyz_Header@2x.jpg" width="400" height="790">
+<img src="https://www.pharmasalmanac.com/hs-fs/hubfs/Road%20To%20Ireland/Sponsors/Globyz_Header@2x.jpg?width=1974&name=Globyz_Header@2x.jpg" width="250" height="250">
 
 ### Projects
