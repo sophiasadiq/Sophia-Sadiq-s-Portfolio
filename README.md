@@ -16,4 +16,4 @@ documents to ensure regulatory compliance and operational efficiency.
 
 #### Arudino Air Quality 
 
-<img src="https://howtomechatronics.com/wp-content/uploads/2020/12/DIY-Arduino-Air-Quality-Monitor-Circuit-Diagram-How-It-Works-1024x590.png?ezimgfmt=ng:webp/ngcb2" width="250" height="250>
+<img src="https://howtomechatronics.com/wp-content/uploads/2020/12/DIY-Arduino-Air-Quality-Monitor-Circuit-Diagram-How-It-Works-1024x590.png?ezimgfmt=ng:webp/ngcb2" width="250" height="250">
