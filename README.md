@@ -7,13 +7,12 @@ In our first-year design course (ENGG*1100), my interdisciplinary team and I wer
 
 **1. Building the Mechanical Chassis of the Teddy Bear Wheel Chair (Robotic Device)**
 
+<img src="blob:https://cac-onenote.officeapps.live.com/6dc3422b-8a3d-43c0-b1a7-3051d8d96b55">
+
+<img src="blob:https://cac-onenote.officeapps.live.com/0419b6f0-8692-488f-bffb-f7ffd4f97bd5">
+
 **Engineering Design II: 3D Printed Toy** <br/>
 In my Engineering and Design II course, we're building on our design skills by working in teams to reverse engineer everyday objects and create solutions to complex design problems. Our project this semester is to design a 3D-printed toy that fits in a Kinder Egg, adheres to size and weight constraints, and incorporates a mechanism to store and release energy for motion or projectile launching.
-
-
-
-
-
 
 
 
