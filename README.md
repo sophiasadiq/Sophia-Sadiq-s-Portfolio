@@ -5,6 +5,8 @@ My name is Sophia Sadiq and I am a student at the University of Guelph. I am cur
 **Engineering Design I: Teddy Bear Wheelchair (Robotic Device)**
 In our first-year design course (ENGG*1100), my interdisciplinary team and I were tasked with designing, building, and coding a wheelchair for a teddy bear. The project was both fun and challenging as we had to ensure the wheelchair could complete various tests to assess its performance and accuracy. One of the most interesting parts of the project was a target-practice test, where we had to integrate a ping-pong projectile system into the design. It was a great way to apply our knowledge and work together as a team.
 
+**1. Building the Mechanical Chassis of the Teddy Bear Wheel Chair (Robotic Device)**
+
 **Engineering Design II: 3D Printed Toy**
 In my Engineering and Design II course, we're building on our design skills by working in teams to reverse engineer everyday objects and create solutions to complex design problems. Our project this semester is to design a 3D-printed toy that fits in a Kinder Egg, adheres to size and weight constraints, and incorporates a mechanism to store and release energy for motion or projectile launching.
 
