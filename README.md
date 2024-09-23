@@ -36,28 +36,19 @@ After making this change, we thoroughly tested the vehicle to ensure it operated
 
 ![Screenshot 2024-09-22 220257](https://github.com/user-attachments/assets/c1b43d6b-894e-4846-9451-144fd04e9062)
 
-Chassis and Plates: The chassis is built from metal plates with multiple holes. These perforations allow me to easily adjust and align the motor and other components for optimal placement.
+**Chassis and Plates:** The chassis is built from metal plates with multiple holes. These perforations allow me to easily adjust and align the motor and other components for optimal placement.
 
-Motor Installation: I've mounted the motor using metal brackets to ensure it stays securely in place. This is crucial to avoid vibrations or misalignments that could hamper performance.
+**Motor Installation:** I've mounted the motor using metal brackets to ensure it stays securely in place. This is crucial to avoid vibrations or misalignments that could hamper performance.
 
-Wiring: There are several wires visible, connected to the motor and potentially other parts. I've taken care to route and secure these wires to prevent any interference or damage during the robot's operation.
+**Wiring:** There are several wires visible, connected to the motor and potentially other parts. I've taken care to route and secure these wires to prevent any interference or damage during the robot's operation.
 
-Hardware: I've used screws and bolts to assemble the plates and secure the motor. Choosing the right hardware is essential to maintain the structural integrity of the vehicle.
+**Hardware:** I've used screws and bolts to assemble the plates and secure the motor. Choosing the right hardware is essential to maintain the structural integrity of the vehicle.
 
-Wheels and Axles: The wheels are partially visible, and I've carefully aligned their axles to ensure smooth movement and steering.
+**Wheels and Axles:** The wheels are partially visible, and I've carefully aligned their axles to ensure smooth movement and steering.
 
 ![Screenshot 2024-09-22 220219](https://github.com/user-attachments/assets/c5d17b83-c23d-4645-807c-40ccef0d1439)
 
-I painted each individual pi
-
-
-
-
-
-
-
-
-
+I painted each individual piece as well as stiched some of the printed images on to the cardboard pieces with yarn.
 
 ## **Engineering Design II: 3D Printed Toy** <br/>
 In my Engineering and Design II course, we're building on our design skills by working in teams to reverse engineer everyday objects and create solutions to complex design problems. Our project this semester is to design a 3D-printed toy that fits in a Kinder Egg, adheres to size and weight constraints, and incorporates a mechanism to store and release energy for motion or projectile launching.
