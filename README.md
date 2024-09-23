@@ -1,4 +1,4 @@
-<u>Introduction</u>
+# Introduction
 My name is Sophia Sadiq and I am a student at the University of Guelph. I am currently enrolled in Biological & Biomedical Engineering. I hope to gain knowledge and experience from various different projects, jobs, and extracurriculars.
 
 # University Course Design Projects <br/>
