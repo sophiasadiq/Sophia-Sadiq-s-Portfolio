@@ -1,7 +1,7 @@
-## <u>Introduction</u>
+# <u>Introduction</u>
 My name is Sophia Sadiq and I am a student at the University of Guelph. I am currently enrolled in Biological & Biomedical Engineering. I hope to gain knowledge and experience from various different projects, jobs, and extracurriculars.
 
-## University Course Design Projects <br/>
+# <u>University Course Design Projects</u> <br/>
 ## **Engineering Design I: Teddy Bear Wheelchair (Robotic Device)** <br/>
 In our first-year design course (ENGG*1100), my interdisciplinary team and I were tasked with designing, building, and coding a wheelchair for a teddy bear. The project was both fun and challenging as we had to ensure the wheelchair could complete various tests to assess its performance and accuracy. One of the most interesting parts of the project was a target-practice test, where we had to integrate a ping-pong projectile system into the design. It was a great way to apply our knowledge and work together as a team.
 
