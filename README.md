@@ -7,7 +7,7 @@ In our first-year design course (ENGG*1100), my interdisciplinary team and I wer
 
 **1. Building the Mechanical Chassis of the Teddy Bear Wheel Chair (Robotic Device)**
 
-![Screenshot 2024-09-21 180148](https://github.com/user-attachments/assets/d4139b1a-c61f-4180-bb5f-6290c36b57d1)
+![Screenshot 2024-09-21 180148](https://github.com/user-attachments/assets/d4139b1a-c61f-4180-bb5f-6290c36b57d1 | width=100)
 
 **Arranging the Breadboard and Components**
 First, I placed the motor driver IC on the breadboard just as it appears in the picture above. I make sure it’s positioned in a central location on the breadboard to easily connect it to other components. Then, I grab some jumper wires and start connecting the Arduino to the breadboard. I usually like to use different colors for different purposes—red for power, black for ground, and other colors for signal lines, which helps me keep track of the connections more easily.
