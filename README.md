@@ -52,6 +52,21 @@ After making this change, we thoroughly tested the vehicle to ensure it operated
 
 I painted each individual piece as well as stiched some of the printed images on to the cardboard pieces with yarn.
 
+## **Final Product:**
+
+**Front View**
+![Screenshot 2024-09-23 013953](https://github.com/user-attachments/assets/335520f6-94f9-4ef6-b5ac-47bf005f3454)
+
+**Side View #1**
+![Screenshot 2024-09-23 013654](https://github.com/user-attachments/assets/b68bf45d-dd12-4f82-85d4-2fedc37ee28a)
+
+**Side View #2**
+![Screenshot 2024-09-23 014324](https://github.com/user-attachments/assets/f6724023-bde8-4337-a93f-f79764eb09a4)
+
+**Back View**
+![Screenshot 2024-09-23 015742](https://github.com/user-attachments/assets/13b15d31-b696-465c-829b-a51347ee7958)
+
+
 
 ## **Engineering Design II: 3D Printed Toy** <br/>
 In my Engineering and Design II course, we're building on our design skills by working in teams to reverse engineer everyday objects and create solutions to complex design problems. Our project this semester is to design a 3D-printed toy that fits in a Kinder Egg, adheres to size and weight constraints, and incorporates a mechanism to store and release energy for motion or projectile launching.
