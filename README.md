@@ -7,7 +7,7 @@ In our first-year design course (ENGG*1100), my interdisciplinary team and I wer
 
 **1. Building the Mechanical Chassis of the Teddy Bear Wheel Chair (Robotic Device)**
 
-![Screenshot 2024-09-21 180148](https://github.com/user-attachments/assets/d4139b1a-c61f-4180-bb5f-6290c36b57d1 | width=100)
+![Screenshot 2024-09-21 180148](https://github.com/user-attachments/assets/d4139b1a-c61f-4180-bb5f-6290c36b57d1)
 
 **Arranging the Breadboard and Components**
 First, I placed the motor driver IC on the breadboard just as it appears in the picture above. I make sure it’s positioned in a central location on the breadboard to easily connect it to other components. Then, I grab some jumper wires and start connecting the Arduino to the breadboard. I usually like to use different colors for different purposes—red for power, black for ground, and other colors for signal lines, which helps me keep track of the connections more easily.
@@ -66,7 +66,11 @@ I painted each individual piece as well as stiched some of the printed images on
 **Back View**
 ![Screenshot 2024-09-23 015742](https://github.com/user-attachments/assets/13b15d31-b696-465c-829b-a51347ee7958)
 
+To make the launcher functional, I used a small spring-loaded mechanism, allowing the ping pong balls to be loaded into a tube or slot. The trigger mechanism is attached to the easy-to-reach button.
 
+For power, since it's a robotic device, I integrated the launcher with the existing electrical system, using a small motor or battery to automate the shooting process. I’d ensure that the wiring is neat and hidden, routed through the back of the chair, and stitched along the edges of the wheelchair frame to keep the aesthetic clean.
+
+Lastly, I tested the alignment and made any necessary adjustments to make sure the launcher is stable and fires the ping pong balls smoothly, without compromising the wheelchair’s mobility or the overall balance of the device.
 
 ## **Engineering Design II: 3D Printed Toy** <br/>
 In my Engineering and Design II course, we're building on our design skills by working in teams to reverse engineer everyday objects and create solutions to complex design problems. Our project this semester is to design a 3D-printed toy that fits in a Kinder Egg, adheres to size and weight constraints, and incorporates a mechanism to store and release energy for motion or projectile launching.
