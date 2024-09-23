@@ -53,7 +53,6 @@ After making this change, we thoroughly tested the vehicle to ensure it operated
 I painted each individual piece as well as stiched some of the printed images on to the cardboard pieces with yarn.
 
 
-
 ## **Engineering Design II: 3D Printed Toy** <br/>
 In my Engineering and Design II course, we're building on our design skills by working in teams to reverse engineer everyday objects and create solutions to complex design problems. Our project this semester is to design a 3D-printed toy that fits in a Kinder Egg, adheres to size and weight constraints, and incorporates a mechanism to store and release energy for motion or projectile launching.
 
