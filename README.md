@@ -68,7 +68,7 @@ I painted each individual piece as well as stiched some of the printed images on
 
 To make the launcher functional, I used a small spring-loaded mechanism, allowing the ping pong balls to be loaded into a tube or slot. The trigger mechanism is attached to the easy-to-reach button.
 
-For power, since it's a robotic device, I integrated the launcher with the existing electrical system, using a small motor or battery to automate the shooting process. I’d ensure that the wiring is neat and hidden, routed through the back of the chair, and stitched along the edges of the wheelchair frame to keep the aesthetic clean.
+For power, since it's a robotic device, I integrated the launcher with the existing electrical system, using a small motor to automate the shooting process. I’d ensure that the wiring is neat and hidden, routed through the back of the chair, and stitched along the edges of the wheelchair frame to keep the aesthetic clean.
 
 Lastly, I tested the alignment and made any necessary adjustments to make sure the launcher is stable and fires the ping pong balls smoothly, without compromising the wheelchair’s mobility or the overall balance of the device.
 
