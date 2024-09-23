@@ -5,7 +5,7 @@ My name is Sophia Sadiq and I am a student at the University of Guelph. I am cur
 ## **Engineering Design I: Teddy Bear Wheelchair (Robotic Device)** <br/>
 In our first-year design course (ENGG*1100), my interdisciplinary team and I were tasked with designing, building, and coding a wheelchair for a teddy bear. The project was both fun and challenging as we had to ensure the wheelchair could complete various tests to assess its performance and accuracy. One of the most interesting parts of the project was a target-practice test, where we had to integrate a ping-pong projectile system into the design. It was a great way to apply our knowledge and work together as a team.
 
-**1. Building the Mechanical Chassis of the Teddy Bear Wheel Chair (Robotic Device)**
+**Building the Mechanical Chassis of the Teddy Bear Wheel Chair (Robotic Device)**
 
 ![Screenshot 2024-09-21 180148](https://github.com/user-attachments/assets/d4139b1a-c61f-4180-bb5f-6290c36b57d1)
 
