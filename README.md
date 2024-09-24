@@ -75,14 +75,68 @@ Lastly, I tested the alignment and made any necessary adjustments to make sure t
 ## **Engineering Design II: 3D Printed Toy** <br/>
 In my Engineering and Design II course, we're building on our design skills by working in teams to reverse engineer everyday objects and create solutions to complex design problems. Our project this semester is to design a 3D-printed toy that fits in a Kinder Egg, adheres to size and weight constraints, and incorporates a mechanism to store and release energy for motion or projectile launching.
 
+![Screenshot 2024-09-24 152711](https://github.com/user-attachments/assets/b57aa33e-d11d-402f-adc0-a743cfd11ac4)
+
+![Screenshot 2024-09-24 152803](https://github.com/user-attachments/assets/89eb5d2f-7adb-49b1-9a53-618270415b64)
+
+![Screenshot 2024-09-24 152907](https://github.com/user-attachments/assets/80ec6e6c-5aac-4816-a249-885a8d5df97f)
+
+![Screenshot 2024-09-24 152954](https://github.com/user-attachments/assets/ee54fc85-7764-4f55-bdf1-945b1f6182fd)
+
+**Constraints**
+	The following constraints are set in place to ensure that the design of the toy is cost-effective, able to be manufactured in the way that Fererro desires, is an original design, and is a design that can be reasonably put together while ensuring Fererro is happy with the final design. 
+
+**Materials:**
+- The toy's components should be constructed with at least 75% of their weight in mind for 3D printing utilizing PLA plastic and fused deposition modeling (FDM).
+- When disassembled, every part should fit within a 10 cm tall Kinder "Egg" that has a horizontal split in the middle.
+- When built, all parts should fit within the Kinder "Egg," which is 10 cm tall.
+- There cannot be any sub-assemblies in the design that come from other manufacturers or toys that already exist.
+- The item needs to be able to be put together without the need of any glue, tape, or melted plastic of any form.
+- The item needs to be able to be put together without the need of any glue, tape, or melted plastic of any form.
+
+**Energy:**
+- When the operator triggers motion, the toy must be at rest and use its stored potential energy to transform into kinetic energy.
+- The stored potential energy must be the only source of motion for the toy, requiring no additional input from the user.
+- The toy needs to be free of any potential energy stored when disassembled.
+- The toy needs to have the ability to store potential energy and convert it to kinetic energy when the operator takes an action that starts a motion.
+
+**Launch:**
+- Toy designs that are intended to fly must travel a minimum of 2.5 meters as a whole.
+- The toy needs to be categorized as a projectile toy or a flying toy (vertical motion).
+- Toy designs based on projectiles must be able to go through the air a minimum of 2.5 meters vertically.
+- Toy projectiles must have their launch base held in the operator's hand or supported by a surface.
+- There cannot be a detachable pin in the assembly's trigger mechanism.
+- The toy (or launch base, for projectile toys) must stay fully built after activating.
+- Operators must not need to help the toy—that is, provide it with more energy—in order for it to finish its intended motion during or after triggering.
+
+**Other:**
+- The "Commercial Space Travel" theme is a prerequisite for the toy.
+- The toy needs to be secure for both the user and others nearby.
+
+**Criteria**
+	The following criteria are put into place in order to make sure that the toy functions in a manner which ensures that not only Fererro is happy, but to ensure that the experience is enjoyable for all parties involved in playing with the toy.
+
+**Launch:**
+The toy should move as quickly as it can in a vertical manner.
+The toy should fly as high as it can, at least higher than the necessary 2.5 meters.
+The projectile's course should be as far away as it can be from the operator and any onlookers.
+
+**Design:**
+The toy should have the most imaginative design possible.
+Reduce the number of pointy and sharp edges on the item.
+Increase aesthetic appeal to the fullest
+Reduce the amount, weight, and expense.
+Optimize your delight and fun.
+
+**Size:**
+When designing toys, it's important to prioritize creating larger and faster designs.
+The toy must occupy at least 1000 cm³ in volume.
+
+**Detailed Final Design**
+
+The final design of the toy featured an elastic band driven mars rover themed space exploration vehicle. The main body of the rover consisted of two separate body components which could be attached by snap fit joints located on the joining faces of both components. Each body component had two suspension arms which extruded downwards and featured an opening for the axles. Each opening was slightly larger than the axle, allowing easy assembly and the free rotation of the axle thus reducing mechanical loss due to friction between parts. The rear body component featured a small hole and a small extrusion. The hole is a joint for the switch mechanism mentioned previously and is again slightly larger than the joint on the switch itself. This allows for the switch to be rotated when the user wishes to toggle the mechanism to store or release kinetic energy. The small extrusion acts as a stopper for the switch to ensure that once the user wishes to store kinetic energy, the switch will refuse any rotation from the axle. The front component of the body features a hook connected to the underbody of the chassis. This is in place in order to mount the elastic used to propel the toy. The rear axle features the associated mounting point with another hook. Once the elastic is connected through both hooks, the toy can be winded up and kinetic energy can be accumulated. A full list of parts can be found in figure three.
+
+**Final Product:**
 
 
 
-
-
-
-### Projects
-
-#### Arudino Air Quality 
-
-<img src="https://howtomechatronics.com/wp-content/uploads/2020/12/DIY-Arduino-Air-Quality-Monitor-Circuit-Diagram-How-It-Works-1024x590.png?ezimgfmt=ng:webp/ngcb2" width="350" height="250">
