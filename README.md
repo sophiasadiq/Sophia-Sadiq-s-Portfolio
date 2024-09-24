@@ -138,5 +138,14 @@ The final design of the toy featured an elastic band driven mars rover themed sp
 
 **Final Product:**
 
+![image](https://github.com/user-attachments/assets/f0996300-7672-43df-8647-2a08c9118811)
+
+![image](https://github.com/user-attachments/assets/adfafde7-63f3-4d0e-9cdd-9879a164e71d)
+
+![image](https://github.com/user-attachments/assets/75b5bb1e-9fbc-40cc-b1f8-060c72d629c6)
+
+![image](https://github.com/user-attachments/assets/09c0a562-73c6-497a-b9dc-c25925731b6b)
+
+
 
 
